@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hg267.github.io/en/4-eventparticipated/4.1-event1/</loc>
+    <loc>https://hg267.github.io/FCAJ_Report/en/4-eventparticipated/4.1-event1/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hg267.github.io/en/</loc>
+    <loc>https://hg267.github.io/FCAJ_Report/en/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://hg267.github.io/vi/"
+                href="https://hg267.github.io/FCAJ_Report/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hg267.github.io/en/"
+                href="https://hg267.github.io/FCAJ_Report/en/"
                 />
   </url><url>
-    <loc>https://hg267.github.io/en/1-worklog/1.1-week1/</loc>
+    <loc>https://hg267.github.io/FCAJ_Report/en/1-worklog/1.1-week1/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hg267.github.io/en/1-worklog/</loc>
+    <loc>https://hg267.github.io/FCAJ_Report/en/1-worklog/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hg267.github.io/en/2-proposal/</loc>
+    <loc>https://hg267.github.io/FCAJ_Report/en/2-proposal/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hg267.github.io/en/4-eventparticipated/</loc>
+    <loc>https://hg267.github.io/FCAJ_Report/en/4-eventparticipated/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hg267.github.io/en/categories/</loc>
+    <loc>https://hg267.github.io/FCAJ_Report/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://hg267.github.io/vi/categories/"
+                href="https://hg267.github.io/FCAJ_Report/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hg267.github.io/en/categories/"
+                href="https://hg267.github.io/FCAJ_Report/en/categories/"
                 />
   </url><url>
-    <loc>https://hg267.github.io/en/tags/</loc>
+    <loc>https://hg267.github.io/FCAJ_Report/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://hg267.github.io/vi/tags/"
+                href="https://hg267.github.io/FCAJ_Report/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hg267.github.io/en/tags/"
+                href="https://hg267.github.io/FCAJ_Report/en/tags/"
                 />
   </url>
 </urlset>

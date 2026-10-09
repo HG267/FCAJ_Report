@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hg267.github.io/vi/</loc>
+    <loc>https://hg267.github.io/FCAJ_Report/vi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hg267.github.io/en/"
+                href="https://hg267.github.io/FCAJ_Report/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://hg267.github.io/vi/"
+                href="https://hg267.github.io/FCAJ_Report/vi/"
                 />
   </url><url>
-    <loc>https://hg267.github.io/vi/categories/</loc>
+    <loc>https://hg267.github.io/FCAJ_Report/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hg267.github.io/en/categories/"
+                href="https://hg267.github.io/FCAJ_Report/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://hg267.github.io/vi/categories/"
+                href="https://hg267.github.io/FCAJ_Report/vi/categories/"
                 />
   </url><url>
-    <loc>https://hg267.github.io/vi/tags/</loc>
+    <loc>https://hg267.github.io/FCAJ_Report/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hg267.github.io/en/tags/"
+                href="https://hg267.github.io/FCAJ_Report/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://hg267.github.io/vi/tags/"
+                href="https://hg267.github.io/FCAJ_Report/vi/tags/"
                 />
   </url>
 </urlset>
