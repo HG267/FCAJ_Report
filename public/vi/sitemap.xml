@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://workshop-sample.awsfcaj.com/vi/</loc>
+    <loc>https://hg267.github.io/vi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://workshop-sample.awsfcaj.com/"
+                href="https://hg267.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://workshop-sample.awsfcaj.com/vi/"
+                href="https://hg267.github.io/vi/"
                 />
   </url><url>
-    <loc>https://workshop-sample.awsfcaj.com/vi/categories/</loc>
+    <loc>https://hg267.github.io/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://workshop-sample.awsfcaj.com/categories/"
+                href="https://hg267.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://workshop-sample.awsfcaj.com/vi/categories/"
+                href="https://hg267.github.io/vi/categories/"
                 />
   </url><url>
-    <loc>https://workshop-sample.awsfcaj.com/vi/tags/</loc>
+    <loc>https://hg267.github.io/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://workshop-sample.awsfcaj.com/tags/"
+                href="https://hg267.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://workshop-sample.awsfcaj.com/vi/tags/"
+                href="https://hg267.github.io/vi/tags/"
                 />
   </url>
 </urlset>
