@@ -1,20 +1,20 @@
 [
 {
-	"uri": "http://localhost:1313/vi/",
+	"uri": "https://workshop-sample.awsfcaj.com/vi/",
 	"title": "Báo cáo thực tập",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://localhost:1313/vi/categories/",
+	"uri": "https://workshop-sample.awsfcaj.com/vi/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://localhost:1313/vi/tags/",
+	"uri": "https://workshop-sample.awsfcaj.com/vi/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
